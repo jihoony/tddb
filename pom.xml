@@ -17,6 +17,10 @@
         <module>chap07</module>
         <module>chap08</module>
         <module>chap09</module>
+        <module>appA</module>
+        <module>appB</module>
+        <module>appC</module>
+        <module>appD</module>
     </modules>
 
     
